@@ -55,3 +55,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # deviseの追加
 gem "devise"
+
+# binding-pryの追加
+gem "pry-rails"
