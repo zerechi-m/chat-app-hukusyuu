@@ -62,3 +62,8 @@ gem "pry-rails"
 # 画像編集ツールの追加
 gem 'mini_magick'
 gem 'image_processing', '~> 1.2'
+
+# テストの追加
+gem "rspec-rails"
+gem "factory_bot_rails"
+gem "faker"
